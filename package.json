@@ -1,5 +1,5 @@
 {
-  "name": "@adonis/firebase",
+  "name": "adonis-firebase",
   "version": "1.0.0",
   "description": "Provider for firebase admin module.",
   "scripts": {
