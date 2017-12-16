@@ -1,0 +1,28 @@
+{
+  "name": "@adonis/firebase",
+  "version": "1.0.0",
+  "description": "Provider for firebase admin module.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrishabh55/adonis-firebase.git"
+  },
+  "keywords": [
+    "adonisjs",
+    "adonis",
+    "firebase",
+    "firebase-admin"
+  ],
+  "author": "Rishabh Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrishabh55/adonis-firebase/issues"
+  },
+  "homepage": "https://github.com/jrishabh55/adonis-firebase#readme",
+  "dependencies": {
+    "firebase": "^4.8.0",
+    "firebase-admin": "^5.5.1"
+  }
+}
